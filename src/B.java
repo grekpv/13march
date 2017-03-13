@@ -15,5 +15,6 @@ public class B {
             if (cnt == 0)
             System.out.println(i);
         }
+        
     }
 }
