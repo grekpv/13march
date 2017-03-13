@@ -12,10 +12,11 @@ public class B {
                 if (i%j == 0 && i != j)
                     cnt++;
             }
+            
             if (cnt == 0)
             System.out.println(i);
         }
-        
+
 
     }
 }
